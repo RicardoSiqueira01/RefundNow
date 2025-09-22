@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>A role for the testers</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1812797_refund_0.refund_tester</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>refund_tester</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 14:05:02</sys_created_on>
+        <sys_id>4297b203c3c032101d20d60d05013109</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1812797_refund_0.refund_tester</sys_name>
+        <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
+        <sys_update_name>sys_user_role_4297b203c3c032101d20d60d05013109</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 14:05:02</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundNow">42977203c3c032101d20d60d050131f1</application>
+        <file_path/>
+        <instance_id>02e794483bfbce94c55a348aa4e45ac0</instance_id>
+        <instance_name>dev281964</instance_name>
+        <name>sys_user_role_4297b203c3c032101d20d60d05013109</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>A role for the testers</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1812797_refund_0.refund_tester</name><scoped_admin>false</scoped_admin><suffix>refund_tester</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-22 14:05:02</sys_created_on><sys_id>4297b203c3c032101d20d60d05013109</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1812797_refund_0.refund_tester</sys_name><sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package><sys_policy/><sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope><sys_update_name>sys_user_role_4297b203c3c032101d20d60d05013109</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-22 14:05:02</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1379359260</payload_hash>
+        <record_name>x_1812797_refund_0.refund_tester</record_name>
+        <reverted_from/>
+        <source>c697b203c3c032101d20d60d05013102</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 14:05:03</sys_created_on>
+        <sys_id>8297b203c3c032101d20d60d0501310f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19971be07180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 14:05:03</sys_updated_on>
+        <type>Role</type>
+        <update_guid>4697b203cac03210d93b9b7160ab240e</update_guid>
+        <update_guid_history>4697b203cac03210d93b9b7160ab240e:1379359260</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1812797_refund_0.refund_tester">1d4f5b0fc34432101d20d60d050131e5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 16:58:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>08097794a82c4090826796fbeceab900</sys_id>
+        <sys_metadata>4297b203c3c032101d20d60d05013109</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1812797_refund_0.refund_tester</sys_name>
+        <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
+        <sys_scope_delete display_value="">7c2f676c94a2412892f77f23b8c7f190</sys_scope_delete>
+        <sys_update_name>sys_user_role_4297b203c3c032101d20d60d05013109</sys_update_name>
+        <sys_update_version display_value="sys_user_role_4297b203c3c032101d20d60d05013109">8297b203c3c032101d20d60d0501310f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 16:58:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

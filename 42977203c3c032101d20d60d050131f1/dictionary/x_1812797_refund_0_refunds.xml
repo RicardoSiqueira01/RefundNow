@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f8e3a0bc3c032101d20d60d0501318b" extends="task" label="Refunds" max_length="40" name="x_1812797_refund_0_refunds" type="collection">
+        <element label="Category" max_length="32" name="category" reference="x_1812797_refund_0_refund_categories" type="reference"/>
+        <element label="Purchase Receipt" max_length="40" name="purchase_receipt" type="file_attachment"/>
+        <element label="Payment Date" max_length="40" name="payment_date" type="glide_date"/>
+        <element label="Value" max_length="40" name="value" type="float"/>
+    </element>
+</database>
