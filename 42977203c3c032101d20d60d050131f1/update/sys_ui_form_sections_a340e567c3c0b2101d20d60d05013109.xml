@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a340e567c3c0b2101d20d60d05013109" sys_domain="global" table="x_1812797_refund_0_refunds" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 21:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e740e567c3c0b2101d20d60d0501310d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1812797_refund_0_refunds" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">a340e567c3c0b2101d20d60d05013109</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 21:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 21:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6740e567c3c0b2101d20d60d0501310e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1812797_refund_0_refunds" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">a340e567c3c0b2101d20d60d05013109</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">af40e567c3c0b2101d20d60d05013107</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 21:00:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1812797_refund_0_refunds</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 21:00:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a340e567c3c0b2101d20d60d05013109</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1812797_refund_0_refunds</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a340e567c3c0b2101d20d60d05013109</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 21:00:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
