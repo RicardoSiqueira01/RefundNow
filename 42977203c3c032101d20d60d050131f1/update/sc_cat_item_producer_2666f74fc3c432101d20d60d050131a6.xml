@@ -89,14 +89,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-22 18:40:19</sys_created_on>
         <sys_id>2666f74fc3c432101d20d60d050131a6</sys_id>
-        <sys_mod_count>55</sys_mod_count>
+        <sys_mod_count>59</sys_mod_count>
         <sys_name>Refund</sys_name>
         <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
         <sys_policy/>
         <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
         <sys_update_name>sc_cat_item_producer_2666f74fc3c432101d20d60d050131a6</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 13:01:04</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-09-23 18:31:03</sys_updated_on>
         <table_name>x_1812797_refund_0_refunds</table_name>
         <taxonomy_topic/>
         <template/>
@@ -104,7 +104,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>55</version>
+        <version>59</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
