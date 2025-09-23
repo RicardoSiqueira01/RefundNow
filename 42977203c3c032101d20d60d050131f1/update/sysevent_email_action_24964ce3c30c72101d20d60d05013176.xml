@@ -52,7 +52,7 @@
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>sys_created_by</recipient_fields>
+        <recipient_fields>opened_by</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
@@ -67,7 +67,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>24964ce3c30c72101d20d60d05013176</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Refund Approved</sys_name>
         <sys_overrides/>
         <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
@@ -75,7 +75,7 @@
         <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
         <sys_update_name>sysevent_email_action_24964ce3c30c72101d20d60d05013176</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 14:55:30</sys_updated_on>
+        <sys_updated_on>2025-09-23 16:21:00</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
