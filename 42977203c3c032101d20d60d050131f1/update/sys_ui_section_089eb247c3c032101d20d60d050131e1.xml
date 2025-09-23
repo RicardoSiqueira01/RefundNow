@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>fc6df3d7c3c872101d20d60d05013158</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>9688c0a7c30c72101d20d60d050131fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d05013159</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d288c0a7c30c72101d20d60d050131fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>state</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d0501315a</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da88c0a7c30c72101d20d60d050131fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d0501315a</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d288c0a7c30c72101d20d60d050131fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>purchase_receipt</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d0501315b</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da88c0a7c30c72101d20d60d050131fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,27 +74,27 @@
             <element>.begin_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d0501315b</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d288c0a7c30c72101d20d60d050131fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_by</element>
+            <element>opened_by</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d0501315c</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da88c0a7c30c72101d20d60d050131fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>value</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d0501315c</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d288c0a7c30c72101d20d60d050131fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d0501315d</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da88c0a7c30c72101d20d60d050131fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>payment_date</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d0501315d</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d288c0a7c30c72101d20d60d050131ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>category</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d0501315e</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da88c0a7c30c72101d20d60d050131ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>responsible_group</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d0501315e</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d28804a7c30c72101d20d60d05013100</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>.end_split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d0501315f</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da8804a7c30c72101d20d60d05013100</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>description</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>3c6df3d7c3c872101d20d60d0501315f</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>d28804a7c30c72101d20d60d05013101</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>reproval_reason</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-23 13:48:27</sys_created_on>
-            <sys_id>346df3d7c3c872101d20d60d05013160</sys_id>
+            <sys_created_on>2025-09-23 14:37:10</sys_created_on>
+            <sys_id>da8804a7c30c72101d20d60d05013101</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1812797_refund_0_refunds" sys_domain="global" view="Default view">089eb247c3c032101d20d60d050131e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-23 13:48:27</sys_updated_on>
+            <sys_updated_on>2025-09-23 14:37:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

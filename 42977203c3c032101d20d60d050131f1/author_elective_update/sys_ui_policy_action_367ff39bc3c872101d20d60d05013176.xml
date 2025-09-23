@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>responsible_group</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 13:58:06</sys_created_on>
+        <sys_id>367ff39bc3c872101d20d60d05013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>responsible_group</sys_name>
+        <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_367ff39bc3c872101d20d60d05013176</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 13:58:06</sys_updated_on>
+        <table>x_1812797_refund_0_refunds</table>
+        <ui_policy display_value="Make group readonly">be4fff5bc3c872101d20d60d0501314c</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=367ff39bc3c872101d20d60d05013176"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundNow">42977203c3c032101d20d60d050131f1</application>
+        <file_path/>
+        <instance_id>02e794483bfbce94c55a348aa4e45ac0</instance_id>
+        <instance_name>dev281964</instance_name>
+        <name>sys_ui_policy_action_367ff39bc3c872101d20d60d05013176</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>responsible_group</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-23 13:58:06</sys_created_on><sys_id>367ff39bc3c872101d20d60d05013176</sys_id><sys_mod_count>0</sys_mod_count><sys_name>responsible_group</sys_name><sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package><sys_policy/><sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope><sys_update_name>sys_ui_policy_action_367ff39bc3c872101d20d60d05013176</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-23 13:58:06</sys_updated_on><table>x_1812797_refund_0_refunds</table><ui_policy display_value="Make group readonly">be4fff5bc3c872101d20d60d0501314c</ui_policy><value/><value_action>ignore</value_action><visible>ignore</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=367ff39bc3c872101d20d60d05013176"/></record_update>]]></payload>
+        <payload_hash>1455988172</payload_hash>
+        <record_name>responsible_group</record_name>
+        <reverted_from/>
+        <source>e38bb203c3c032101d20d60d05013161</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 13:58:06</sys_created_on>
+        <sys_id>8e9f779bc3c872101d20d60d0501317c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19976de07160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 13:58:06</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>429f779b71c87210713fe612a19c287c</update_guid>
+        <update_guid_history>429f779b71c87210713fe612a19c287c:1455988172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 14:21:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>62aa2dee97be4d7d944a448be2f024e1</sys_id>
+        <sys_metadata>367ff39bc3c872101d20d60d05013176</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>responsible_group</sys_name>
+        <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
+        <sys_scope_delete display_value="">7c2f676c94a2412892f77f23b8c7f190</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_367ff39bc3c872101d20d60d05013176</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_367ff39bc3c872101d20d60d05013176">8e9f779bc3c872101d20d60d0501317c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 14:21:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
