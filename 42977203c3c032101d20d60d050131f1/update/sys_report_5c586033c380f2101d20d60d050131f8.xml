@@ -46,9 +46,9 @@
         <donut_width_percent>30</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>state</field>
+        <field/>
         <field_list>number,opened_by,state,value,dolar_value,sys_updated_on,sys_updated_by</field_list>
-        <filter table="x_1812797_refund_0_refunds">stateIN2,4<item display_value="2,4" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="2,4"/>
+        <filter table="x_1812797_refund_0_refunds">state=2<item display_value="Awaiting Manager's Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="2"/>
         </filter>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -109,14 +109,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-24 11:34:30</sys_created_on>
         <sys_id>5c586033c380f2101d20d60d050131f8</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>Refund Claim Reports</sys_name>
         <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
         <sys_policy/>
         <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
         <sys_update_name>sys_report_5c586033c380f2101d20d60d050131f8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
+        <sys_updated_on>2025-09-24 19:40:31</sys_updated_on>
         <table>x_1812797_refund_0_refunds</table>
         <title>Refund Claim Reports</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
