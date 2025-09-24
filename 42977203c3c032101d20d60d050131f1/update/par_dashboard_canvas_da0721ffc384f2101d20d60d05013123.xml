@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
     <par_dashboard_canvas action="INSERT_OR_UPDATE">
         <dashboard display_value="RefundNow">e3521537c344f2101d20d60d05013195</dashboard>
-        <dashboard_tab/>
-        <layout>[{"sys_id":"1607edffc384f2101d20d60d0501312a","x":1,"y":0,"w":17,"h":6,"component_id":"1f6e0643eca7a637e36bd7833549ec9e","component_props":"{\"variant\":\"header-primary\",\"label\":\"RefundNow Dashboard\",\"wontWrap\":false,\"hasNoMargin\":false,\"level\":\"1\",\"id\":\"label\",\"value\":\"RefundNow Dashboard\",\"noDebounce\":true,\"propLabel\":\"Label\"}","can_edit":true}]</layout>
+        <dashboard_tab display_value="New Tab 4">9a0721ffc384f2101d20d60d0501311e</dashboard_tab>
+        <layout>[]</layout>
         <sys_class_name>par_dashboard_canvas</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-24 14:38:13</sys_created_on>
+        <sys_created_on>2025-09-24 16:08:31</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2752dd77c344f2101d20d60d050131f1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>da0721ffc384f2101d20d60d05013123</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
         <sys_policy/>
         <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
-        <sys_update_name>par_dashboard_canvas_2752dd77c344f2101d20d60d050131f1</sys_update_name>
+        <sys_update_name>par_dashboard_canvas_da0721ffc384f2101d20d60d05013123</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-24 16:08:32</sys_updated_on>
+        <sys_updated_on>2025-09-24 16:08:31</sys_updated_on>
     </par_dashboard_canvas>
 </record_update>

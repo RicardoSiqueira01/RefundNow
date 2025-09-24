@@ -9,7 +9,7 @@
         <duration_type/>
         <enable_logging>false</enable_logging>
         <flow display_value="Default SLA flow">828f267973333300e289235f04f6a7a3</flow>
-        <name>OLA Refund Payed</name>
+        <name>OLA Awaiting Refund</name>
         <pause_condition/>
         <relative_duration_works_on>Task record</relative_duration_works_on>
         <reset_action>cancel</reset_action>
@@ -33,15 +33,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9231d537c344f2101d20d60d050131f6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>OLA Refund Payed</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>OLA Awaiting Refund</sys_name>
         <sys_overrides/>
         <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
         <sys_policy/>
         <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
         <sys_update_name>contract_sla_9231d537c344f2101d20d60d050131f6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-24 14:33:14</sys_updated_on>
+        <sys_updated_on>2025-09-24 16:09:29</sys_updated_on>
         <target>resolution</target>
         <timezone/>
         <timezone_source>task.caller_id.time_zone</timezone_source>
