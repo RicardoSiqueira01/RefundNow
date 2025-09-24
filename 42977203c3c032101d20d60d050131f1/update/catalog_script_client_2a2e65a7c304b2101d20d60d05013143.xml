@@ -19,36 +19,34 @@
         <order/>
         <published_ref/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-   if (isLoading || newValue == '') {
-      return;
-   }
+  if (isLoading || newValue === '') {
+    return;
+  }
 
-   var today = new Date();
-   today.setHours(0,0,0,0);
+//   var selectedDate = new Date(newValue);
+//   selectedDate.setHours(0, 0, 0, 0);
 
-   var selectedDate = new Date(newValue);
-   selectedDate.setHours(0,0,0,0);
+//   var today = new Date();
+//   today.setHours(0, 0, 0, 0);
 
-   var minDate = new Date(today);
-   minDate.setDate(today.getDate() - 30); 
+//   var minDate = new Date(today);
+//   minDate.setDate(today.getDate() - 30);
 
-   if (isNaN(selectedDate)) {
-      g_form.addErrorMessage('Please, select a valid date!');
-      g_form.setValue('payment_date', '');
-      return;
-   }
+//   if (isNaN(selectedDate.getTime())) {
+//     g_form.clearValue('payment_date');
+//     g_form.showFieldMsg('payment_date', 'Please, insert a valid date.', 'error');
 
-   if (selectedDate > today) {
-      g_form.addErrorMessage('Future dates are not allowed');
-      g_form.setValue('payment_date', '');
-      return;
-   }
+//   } else if (selectedDate > today) {
+//     g_form.clearValue('payment_date');
+//     g_form.showFieldMsg('payment_date', 'It\'s not permited to choose future dates.', 'error');
 
-   if (selectedDate < minDate) {
-      g_form.addErrorMessage('Date cannot be more than 30 days in the past');
-      g_form.setValue('payment_date', '');
-      return;
-   }
+//   } else if (selectedDate < minDate) {
+//     g_form.clearValue('payment_date');
+//     g_form.showFieldMsg('payment_date', 'The date can\'t be more then 30 days ago.', 'error');
+	
+//   } else {
+//     g_form.hideFieldMsg('payment_date', true);
+//   }
 }
 ]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
@@ -57,7 +55,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2a2e65a7c304b2101d20d60d05013143</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Validates Date</sys_name>
         <sys_overrides/>
         <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
@@ -65,7 +63,7 @@
         <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
         <sys_update_name>catalog_script_client_2a2e65a7c304b2101d20d60d05013143</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-23 22:52:56</sys_updated_on>
+        <sys_updated_on>2025-09-24 11:40:35</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>1</ui_type>
