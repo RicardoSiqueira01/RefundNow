@@ -5,7 +5,15 @@
         <element label="Purchase Receipt" max_length="40" name="purchase_receipt" type="file_attachment"/>
         <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
         <element label="Dolar Value" max_length="40" name="dolar_value" type="currency"/>
+        <element choice="1" label="Integration State" max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Integrating" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Integration Failed" sequence="2" value="4"/>
+                <element inactive_on_update="false" label="Integration Success" sequence="1" value="3"/>
+            </choice>
+        </element>
         <element label="Responsible Group" max_length="32" name="responsible_group" reference="sys_user_group" reference_qual="parent=2353c5afc300b2101d20d60d05013145^EQ" reference_qual_condition="parent=2353c5afc300b2101d20d60d05013145^EQ" type="reference"/>
         <element label="Payment Date" max_length="40" name="payment_date" type="glide_date"/>
+        <element label="Integration Message" max_length="200" name="integration_message" type="string"/>
     </element>
 </database>
