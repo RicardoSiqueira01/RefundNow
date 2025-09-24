@@ -3,107 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>60586833c380f2101d20d60d05013153</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>c2a270bfc380f2101d20d60d050131db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>opened_by</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>64586833c380f2101d20d60d05013153</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>c6a270bfc380f2101d20d60d050131db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>68586833c380f2101d20d60d05013153</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>caa270bfc380f2101d20d60d050131db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>value</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>6c586833c380f2101d20d60d05013153</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>cea270bfc380f2101d20d60d050131db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>responsible_group</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <element>dolar_value</element>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>60586833c380f2101d20d60d05013154</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>c2a270bfc380f2101d20d60d050131dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>64586833c380f2101d20d60d05013154</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>c6a270bfc380f2101d20d60d050131dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_by</element>
-            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">e4586833c380f2101d20d60d05013152</list_id>
+            <list_id display_value="x_1812797_refund_0_refunds" element="NULL" name="x_1812797_refund_0_refunds" parent="NULL" relationship="NULL" sys_domain="global" view="64586833c380f2101d20d60d05013151">86a270bfc380f2101d20d60d050131da</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
-            <sys_id>68586833c380f2101d20d60d05013154</sys_id>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
+            <sys_id>caa270bfc380f2101d20d60d050131dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -117,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-24 11:34:30</sys_created_on>
+            <sys_created_on>2025-09-24 12:19:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e4586833c380f2101d20d60d05013152</sys_id>
+            <sys_id>86a270bfc380f2101d20d60d050131da</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1812797_refund_0_refunds</sys_name>
             <sys_package display_value="RefundNow" source="x_1812797_refund_0">42977203c3c032101d20d60d050131f1</sys_package>
@@ -128,7 +128,7 @@
             <sys_scope display_value="RefundNow">42977203c3c032101d20d60d050131f1</sys_scope>
             <sys_update_name>sys_ui_list_x_1812797_refund_0_refunds_RPT5c586033c380f2101d20d60d050131f8</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-24 11:34:30</sys_updated_on>
+            <sys_updated_on>2025-09-24 12:19:41</sys_updated_on>
             <sys_user/>
             <view display_value="Rpt5c586033c380f2101d20d60d050131f8" name="RPT5c586033c380f2101d20d60d050131f8">64586833c380f2101d20d60d05013151</view>
             <view_name/>
